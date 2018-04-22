@@ -1,0 +1,8 @@
+.NewCmp {
+    width: 60%;
+    margin: 15px auto;
+    border: 5px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 15px;
+    text-align: center;
+}
